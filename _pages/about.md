@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a Ph.D. student at <a href="https://www.nju.edu.cn/en/">Nanjing University of China</a> from 2024 Spring, a member of <a href="https://keysoftlab.nju.edu.cn/main.psp">State Key Laboratory for Novel Software Technology@NJU</a>, supervised by Professor <a href="https://cs.nju.edu.cn/lwz/index.htm">Wenzhong Li (李文中)</a> and <a href="https://cs.nju.edu.cn/58/1e/c2639a153630/page.htm">Sanglu Lu (陆桑璐)</a>. I received B.S. degree (with Highest Honor) in Mathematics-Physics Fundamental Science from <a href="https://www.yingcai.uestc.edu.cn/xygk/xyjj.htm">Yingcai Honors College</a> at <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China</a> in 2022.
+Hi! I am Xiangkai Ma (马向恺). I'm currently a Ph.D. student at <a href="https://www.nju.edu.cn/en/">Nanjing University of China</a> from 2024 Spring, a member of <a href="https://keysoftlab.nju.edu.cn/main.psp">State Key Laboratory for Novel Software Technology@NJU</a>, supervised by Professor <a href="https://cs.nju.edu.cn/lwz/index.htm">Wenzhong Li (李文中)</a> and <a href="https://cs.nju.edu.cn/58/1e/c2639a153630/page.htm">Sanglu Lu (陆桑璐)</a>. I received B.S. degree (with Highest Honor) in Mathematics-Physics Fundamental Science from <a href="https://www.yingcai.uestc.edu.cn/xygk/xyjj.htm">Yingcai Honors College</a> at <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China</a> in 2022.
 
 Over the past period of time (2022-2024), I focus on problems in time series analysis, where beautiful theory and practical methodology meet. My research focus in the field of time series analysis can be categorized into the following three directions:
 
