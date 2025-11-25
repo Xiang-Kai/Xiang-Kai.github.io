@@ -130,8 +130,6 @@ Conference: [**2024 IEEE 40th International Conference on Data Engineering**](ht
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
 - *2024* Academic Scholarship in NJU. 
 - *2024* Scholarship for Outstanding Graduate Students in NJU. 
