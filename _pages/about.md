@@ -97,14 +97,14 @@ Recently, I have been deeply captivated by the vast application potential of emb
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% WQ4TS -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2025</div><img src='images/wq4ts.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD</div><img src='images/wq4ts.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Wave is Worth 100 Words: Investigating Cross-Domain Transferability in Time Series]
 
 **Xiangkai Ma**, Lekai Xing, Han Zhang, Wenzhong Li, Sanglu Lu
 
-Journal: [**TKDD**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+Journal: [**ACM Transactions on Knowledge Discovery from Data**]
 
 [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) |
 [**arXiv**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) |
@@ -114,17 +114,16 @@ Journal: [**TKDD**](https://scholar.google.com/citations?view_op=view_citation&h
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% TS3Net -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2025</div><img src='images/ts3net.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/ts3net.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TS3Net: Triple Decomposition with Spectrum Gradient for Long-Term Time Series Analysis](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Xiangkai Ma**, Xiaobin Hong, Wenzhong Li, Sanglu Lu
 
-Journal: [**TKDD**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+Journal: [**2024 IEEE 40th International Conference on Data Engineering**](https://ieeexplore.ieee.org/xpl/conhome/1000178/all-proceedings) 
 
-[**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) |
-[**arXiv**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) |
+[**Paper**](https://ieeexplore.ieee.org/document/10597845) |
 [**Project & Code**](https://github.com/Xiang-Kai/TS3Net)
 </div>
 </div>
