@@ -21,13 +21,13 @@ I'm currently a Ph.D. student at <a href="https://www.nju.edu.cn/en/">Nanjing Un
 
 Over the past period of time (2022-2024), I focus on problems in time series analysis, where beautiful theory and practical methodology meet. My research focus in the field of time series analysis can be categorized into the following three directions:
 
-- *Traditional time series analysis based on spectral disentanglement and multi-periodic pattern modeling, as TS3Net [2023] and Pets [2025];*
-- *Fusion across multiple time series domains and cross-domain generalization, as WQ4TS [2024] and TimeControl [2024];*
-- *Zero-shot time series forecasting and classification leveraging pre-trained vision models, as TimeArtist [2025].*
+- *Traditional time series analysis based on spectral disentanglement and multi-periodic pattern modeling, as **TS3Net** [2023] and **Pets** [2025];*
+- *Fusion across multiple time series domains and cross-domain generalization, as **WQ4TS** [2024] and **TimeControl** [2024];*
+- *Zero-shot time series forecasting and classification leveraging pre-trained vision models, as **TimeArtist** [2025].*
 
 Recently, I have been deeply captivated by the vast application potential of embodied robots (such as RoboTwin 2.0, Pi0.5, etc.) in real-world scenarios and hope to pursue research related to Vision-Language-Action (VLA) during my upcoming doctoral studies (2025-2028). Under the guidance of Professor Li, my initial foray into the field of embodied intelligence is as follows:
 
-- *Unifying visual perception and action control through an implicit visual chain-of-thought, as VITA [2025].*
+- *Unifying visual perception and action control through an implicit visual chain-of-thought, as **VITA** [2025].*
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 Our paper receives Minor Revision from ACM Transactions on Knowledge Discovery from Data. 
