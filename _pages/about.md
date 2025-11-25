@@ -1,4 +1,4 @@
----
+<img width="472" height="61" alt="image" src="https://github.com/user-attachments/assets/d78e81b0-729b-4903-9c13-235a3c0a3060" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -35,7 +35,7 @@ Recently, I have been deeply captivated by the vast application potential of emb
 - *2024.08*: &nbsp;🎉🎉 Our paper has been accepted by ACM Transactions on Knowledge Discovery from Data (CCF-B), congratulations to Xiaobin Hong!
 - *2024.02*: &nbsp;🎉🎉 Our paper has been accepted by 40st IEEE International Conference on Data Engineering (CCF-A). 
 
-# 📝 Publications 
+# 📝 Preprints 
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% VITA -->
 
@@ -95,6 +95,8 @@ Domain Fusion Controllable Generalization for Cross-Domain Time Series Forecasti
 </div>
 </div>
 
+# 📝 Publications 
+
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% WQ4TS -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD</div><img src='images/wq4ts.PNG' alt="sym" width="100%"></div></div>
@@ -136,3 +138,13 @@ Conference: [**2024 IEEE 40th International Conference on Data Engineering**](ht
 - *2023* Postgraduate Scholarship in NJU. 
 - *2022* Honors Bachelor's Degree in UESTC. 
 
+
+# 📞 Services
+- *Spring 2025*: Jiangsu Province Graduate Summer School (Interdisciplinary Big Data Mining Theory and Applications), NJU, Teaching Assistant
+- *Spring 2024*: Jiangsu Province Graduate Summer School (Interdisciplinary Big Data Mining Theory and Applications), NJU, Teaching Assistant
+- *Conference Reviewer*: AAAI 2026, ICLR 2026.
+
+# 📖 Educations
+- *2024.09 - 2028.06 (Now)*, Nanjing University, School of Computer Science.
+- *2022.09 - 2024.06*, Nanjing University, Department of Computer Science and Technology. 
+- *2018.09 - 2022.06*, University of Electronic Science and Technology of China. YingCai Honors College.
