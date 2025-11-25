@@ -104,7 +104,7 @@ Domain Fusion Controllable Generalization for Cross-Domain Time Series Forecasti
 
 A Wave is Worth 100 Words: Investigating Cross-Domain Transferability in Time Series
 
-**Xiangkai Ma**, Lekai Xing, Han Zhang, Wenzhong Li, Sanglu Lu
+**Xiangkai Ma**, Xiaobin Hong, Wenzhong Li, Sanglu Lu
 
 Journal: [**ACM Transactions on Knowledge Discovery from Data**](https://dl.acm.org/journal/tkdd)
 
