@@ -131,7 +131,7 @@ Conference: [**2024 IEEE 40th International Conference on Data Engineering**](ht
 </div>
 
 # 🎖 Honors and Awards
-- *2024* Academic Scholarship in NJU. 
+- *2025* Academic Scholarship in NJU. 
 - *2024* Scholarship for Outstanding Graduate Students in NJU. 
 - *2023* Postgraduate Scholarship in NJU. 
 - *2022* Honors Bachelor's Degree in UESTC. 
