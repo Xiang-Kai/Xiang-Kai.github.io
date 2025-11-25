@@ -42,7 +42,7 @@ Recently, I have been deeply captivated by the vast application potential of emb
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2025</div><img src='images/vita.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Unifying Perception and Action: A Hybrid-Modality Pipeline with Implicit Visual Chain-of-Thought for Robotic Action Generation]
+Unifying Perception and Action: A Hybrid-Modality Pipeline with Implicit Visual Chain-of-Thought for Robotic Action Generation
 
 **Xiangkai Ma**, Lekai Xing, Han Zhang, Wenzhong Li, Sanglu Lu
 
@@ -56,7 +56,7 @@ Recently, I have been deeply captivated by the vast application potential of emb
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2025</div><img src='images/timeartist.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Temporal-Visual Semantic Alignment: A Unified Architecture for Transferring Spatial Priors from Vision Models to Zero-Shot Temporal Tasks]
+Temporal-Visual Semantic Alignment: A Unified Architecture for Transferring Spatial Priors from Vision Models to Zero-Shot Temporal Tasks
 
 **Xiangkai Ma**, Han Zhang, Wenzhong Li, Sanglu Lu
 
@@ -70,7 +70,7 @@ Recently, I have been deeply captivated by the vast application potential of emb
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2025</div><img src='images/pets.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Energy-Aware Pattern Disentanglement: A Generalizable Pattern Assisted Architecture for Multi-task Time Series Analysis
+Energy-Aware Pattern Disentanglement: A Generalizable Pattern Assisted Architecture for Multi-task Time Series Analysis
 
 **Xiangkai Ma**, Xiaobin Hong, Wenzhong Li, Sanglu Lu
 
@@ -85,7 +85,7 @@ Recently, I have been deeply captivated by the vast application potential of emb
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2025</div><img src='images/timecontrol.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Domain Fusion Controllable Generalization for Cross-Domain Time Series Forecasting from Multi-Domain Integrated Distribution]
+Domain Fusion Controllable Generalization for Cross-Domain Time Series Forecasting from Multi-Domain Integrated Distribution
 
 **Xiangkai Ma**, Xiaobin Hong, Mingkai Lin, Han Zhang, Wenzhong Li, Sanglu Lu
 
@@ -100,7 +100,7 @@ Recently, I have been deeply captivated by the vast application potential of emb
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD</div><img src='images/wq4ts.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Wave is Worth 100 Words: Investigating Cross-Domain Transferability in Time Series]
+A Wave is Worth 100 Words: Investigating Cross-Domain Transferability in Time Series
 
 **Xiangkai Ma**, Lekai Xing, Han Zhang, Wenzhong Li, Sanglu Lu
 
@@ -117,7 +117,7 @@ Journal: [**ACM Transactions on Knowledge Discovery from Data**](https://dl.acm.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/ts3net.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TS3Net: Triple Decomposition with Spectrum Gradient for Long-Term Time Series Analysis](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+TS3Net: Triple Decomposition with Spectrum Gradient for Long-Term Time Series Analysis
 
 **Xiangkai Ma**, Xiaobin Hong, Wenzhong Li, Sanglu Lu
 
