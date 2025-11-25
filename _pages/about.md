@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a Ph.D. student at <a href="https://www.nju.edu.cn/en/">Nanjing University of China</a> from 2024 Spring, a member of <a href="https://keysoftlab.nju.edu.cn/main.psp">State Key Laboratory for Novel Software Technology@NJU</a>, supervised by <a href="https://cs.nju.edu.cn/lwz/index.htm/">Prof. Wenzhong Li</a>. I received B.S. degree (with Highest Honor) in Mathematics-Physics Fundamental Science from <a href="https://www.yingcai.uestc.edu.cn/xygk/xyjj.htm">Yingcai Honors College</a> at <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China</a> in 2022.
+I'm currently a Ph.D. student at <a href="https://www.nju.edu.cn/en/">Nanjing University of China</a> from 2024 Spring, a member of <a href="https://keysoftlab.nju.edu.cn/main.psp">State Key Laboratory for Novel Software Technology@NJU</a>, supervised by <a href="[https://cs.nju.edu.cn/lwz/index.htm/](https://cs.nju.edu.cn/c9/41/c2639a51521/page.htm)">Prof. Wenzhong Li</a>. I received B.S. degree (with Highest Honor) in Mathematics-Physics Fundamental Science from <a href="https://www.yingcai.uestc.edu.cn/xygk/xyjj.htm">Yingcai Honors College</a> at <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China</a> in 2022.
 
 Over the past period of time (2022-2024), I focus on problems in time series analysis, where beautiful theory and practical methodology meet. My research focus in the field of time series analysis can be categorized into the following three directions:
 
@@ -25,7 +25,7 @@ Over the past period of time (2022-2024), I focus on problems in time series ana
 - *Fusion across multiple time series domains and cross-domain generalization, as **WQ4TS** [2024] and **TimeControl** [2024];*
 - *Zero-shot time series forecasting and classification leveraging pre-trained vision models, as **TimeArtist** [2025].*
 
-Recently, I have been deeply captivated by the vast application potential of embodied robots (such as RoboTwin 2.0, Pi0.5, etc.) in real-world scenarios and hope to pursue research related to Vision-Language-Action (VLA) during my upcoming doctoral studies (2025-2028). Under the guidance of Professor Li, my initial foray into the field of embodied intelligence is as follows:
+Recently, I have been deeply captivated by the vast application potential of embodied robots (such as RoboTwin 2.0, Pi0.5, etc.) in real-world scenarios and hope to pursue research related to Vision-Language-Action (VLA) during my upcoming doctoral studies (2025-2028). Under the guidance of <a href="[https://cs.nju.edu.cn/lwz/index.htm/](https://cs.nju.edu.cn/c9/41/c2639a51521/page.htm)">Prof. Wenzhong Li</a>, my initial foray into the field of embodied intelligence is:
 
 - *Unifying visual perception and action control through an implicit visual chain-of-thought, as **VITA** [2025].*
 
