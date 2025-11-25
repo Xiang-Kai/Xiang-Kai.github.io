@@ -67,7 +67,7 @@ Temporal-Visual Semantic Alignment: A Unified Architecture for Transferring Spat
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Pets -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2025</div><img src='images/pets.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2024</div><img src='images/pets.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Energy-Aware Pattern Disentanglement: A Generalizable Pattern Assisted Architecture for Multi-task Time Series Analysis
@@ -82,7 +82,7 @@ Energy-Aware Pattern Disentanglement: A Generalizable Pattern Assisted Architect
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% TimeControl -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2025</div><img src='images/timecontrol.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2024</div><img src='images/timecontrol.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Domain Fusion Controllable Generalization for Cross-Domain Time Series Forecasting from Multi-Domain Integrated Distribution
