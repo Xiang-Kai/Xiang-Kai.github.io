@@ -30,8 +30,8 @@ Recently, I have been deeply captivated by the vast application potential of emb
 - *Unifying visual perception and action control through an implicit visual chain-of-thought, as **VITA** [2025].*
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 Our paper receives Minor Revision from ACM Transactions on Knowledge Discovery from Data (CCF-A). 
-- *2025.10*: &nbsp;🎉🎉 Our paper receives Minor Revision from IEEE Transactions on Knowledge and Data Engineering (CCF-B). 
+- *2025.11*: &nbsp;🎉🎉 Our paper receives Minor Revision from ACM Transactions on Knowledge Discovery from Data (CCF-B). 
+- *2025.10*: &nbsp;🎉🎉 Our paper receives Minor Revision from IEEE Transactions on Knowledge and Data Engineering (CCF-A). 
 - *2024.08*: &nbsp;🎉🎉 Our paper has been accepted by ACM Transactions on Knowledge Discovery from Data (CCF-B), congratulations to Xiaobin Hong!
 - *2024.02*: &nbsp;🎉🎉 Our paper has been accepted by 40st IEEE International Conference on Data Engineering (CCF-A). 
 
