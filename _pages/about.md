@@ -100,11 +100,11 @@ Recently, I have been deeply captivated by the vast application potential of emb
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD</div><img src='images/wq4ts.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Wave is Worth 100 Words: Investigating Cross-Domain Transferability in Time Series](https://dl.acm.org/journal/tkdd)
+[A Wave is Worth 100 Words: Investigating Cross-Domain Transferability in Time Series]
 
 **Xiangkai Ma**, Lekai Xing, Han Zhang, Wenzhong Li, Sanglu Lu
 
-Journal: [**ACM Transactions on Knowledge Discovery from Data**]
+Journal: [**ACM Transactions on Knowledge Discovery from Data**](https://dl.acm.org/journal/tkdd)
 
 [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) |
 [**arXiv**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) |
