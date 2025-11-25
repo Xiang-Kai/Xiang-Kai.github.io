@@ -1,4 +1,4 @@
-<img width="472" height="61" alt="image" src="https://github.com/user-attachments/assets/d78e81b0-729b-4903-9c13-235a3c0a3060" />---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -135,7 +135,6 @@ Conference: [**2024 IEEE 40th International Conference on Data Engineering**](ht
 - *2024* Scholarship for Outstanding Graduate Students in NJU. 
 - *2023* Postgraduate Scholarship in NJU. 
 - *2022* Honors Bachelor's Degree in UESTC. 
-
 
 # 📞 Services
 - *Spring 2025*: Jiangsu Province Graduate Summer School (Interdisciplinary Big Data Mining Theory and Applications), NJU, Teaching Assistant
