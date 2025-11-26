@@ -108,8 +108,8 @@ A Wave is Worth 100 Words: Investigating Cross-Domain Transferability in Time Se
 
 Journal: [**ACM Transactions on Knowledge Discovery from Data**](https://dl.acm.org/journal/tkdd)
 
-[**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) |
-[**arXiv**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) |
+[**Paper**](https://arxiv.org/pdf/2412.00772) |
+[**arXiv**](https://arxiv.org/abs/2412.00772) |
 [**Project & Code**](https://anonymous.4open.science/r/WQ4TS)
 </div>
 </div>
