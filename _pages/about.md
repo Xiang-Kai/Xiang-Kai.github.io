@@ -46,8 +46,8 @@ Unifying Perception and Action: A Hybrid-Modality Pipeline with Implicit Visual 
 
 **Xiangkai Ma**, Lekai Xing, Han Zhang, Wenzhong Li, Sanglu Lu
 
-[**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) |
-[**arXiv**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
+[**Paper**](https://arxiv.org/pdf/2511.19859) |
+[**arXiv**](https://arxiv.org/abs/2511.19859)
 </div>
 </div>
 
@@ -60,8 +60,8 @@ Temporal-Visual Semantic Alignment: A Unified Architecture for Transferring Spat
 
 **Xiangkai Ma**, Han Zhang, Wenzhong Li, Sanglu Lu
 
-[**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) |
-[**arXiv**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) 
+[**Paper**](https://arxiv.org/pdf/2511.19856) |
+[**arXiv**](https://arxiv.org/abs/2511.19856) 
 </div>
 </div>
 
@@ -74,8 +74,8 @@ Energy-Aware Pattern Disentanglement: A Generalizable Pattern Assisted Architect
 
 **Xiangkai Ma**, Xiaobin Hong, Wenzhong Li, Sanglu Lu
 
-[**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) |
-[**arXiv**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) |
+[**Paper**](https://arxiv.org/pdf/2504.14209) |
+[**arXiv**](https://arxiv.org/abs/2504.14209) |
 [**Project & Code**](https://github.com/Xiang-Kai/Pets) 
 </div>
 </div>
@@ -89,8 +89,8 @@ Domain Fusion Controllable Generalization for Cross-Domain Time Series Forecasti
 
 **Xiangkai Ma**, Xiaobin Hong, Mingkai Lin, Han Zhang, Wenzhong Li, Sanglu Lu
 
-[**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) |
-[**arXiv**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) |
+[**Paper**](https://arxiv.org/pdf/2412.03068) |
+[**arXiv**](https://arxiv.org/abs/2412.03068) |
 [**Project & Code**](https://github.com/TimeControl-2025/TimeControl) 
 </div>
 </div>
