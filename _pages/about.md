@@ -48,8 +48,8 @@ Unifying Perception and Action: A Hybrid-Modality Pipeline with Implicit Visual 
 
 [**Paper**](https://arxiv.org/pdf/2511.19859) |
 [**arXiv**](https://arxiv.org/abs/2511.19859) |
-[**Demo-Website**](https://vita-cvpr26.github.io/) |
-[**Code**](https://github.com/vita-cvpr26/vita)
+[**Demo & Website**](https://vita-cvpr26.github.io/) |
+[**Project & Code**](https://github.com/vita-cvpr26/vita)
 </div>
 </div>
 
