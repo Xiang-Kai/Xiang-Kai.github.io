@@ -47,7 +47,9 @@ Unifying Perception and Action: A Hybrid-Modality Pipeline with Implicit Visual 
 **Xiangkai Ma**, Lekai Xing, Han Zhang, Wenzhong Li, Sanglu Lu
 
 [**Paper**](https://arxiv.org/pdf/2511.19859) |
-[**arXiv**](https://arxiv.org/abs/2511.19859)
+[**arXiv**](https://arxiv.org/abs/2511.19859) |
+[**Demo-Website**](https://vita-cvpr26.github.io/) |
+[**Code**](https://github.com/vita-cvpr26/vita)
 </div>
 </div>
 
