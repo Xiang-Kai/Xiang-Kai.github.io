@@ -25,9 +25,11 @@ Over the past period of time (2022-2024), I focus on problems in time series ana
 - *Fusion across multiple time series domains and cross-domain generalization, as **WQ4TS** [2024] and **TimeControl** [2024];*
 - *Zero-shot time series forecasting and classification leveraging pre-trained vision models, as **TimeArtist** [2025].*
 
-Recently, I have been deeply captivated by the vast application potential of embodied robots in real-world scenarios and hope to pursue research related to Vision-Language-Action (VLA) during my upcoming doctoral studies (2025-2028). Under the guidance of <a href="[https://cs.nju.edu.cn/lwz/index.htm/](https://cs.nju.edu.cn/c9/41/c2639a51521/page.htm)">Prof. Wenzhong Li</a>, my initial foray into the field of embodied intelligence is:
+Recently, I have been deeply captivated by the vast application potential of embodied robots in real-world scenarios and hope to pursue research related to Vision-Language-Action (VLA) during my upcoming doctoral studies (2025-2028). My initial foray into the field of embodied intelligence is:
 
 - *Unifying visual perception and action control through an implicit visual chain-of-thought, as **VITA** [2025].*
+
+Now, I am seeking internship opportunities in the field of Embodied AI. Should my research background align with your interests, please do not hesitate to contact me via **xiangkai.ma@smail.nju.edu.cn**.
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 Our paper has been accepted by IEEE Conference on Computer Vision and Pattern Recognition (CCF-A). 
@@ -36,11 +38,11 @@ Recently, I have been deeply captivated by the vast application potential of emb
 - *2024.08*: &nbsp;🎉🎉 Our paper has been accepted by ACM Transactions on Knowledge Discovery from Data (CCF-B), congratulations to Xiaobin Hong!
 - *2024.02*: &nbsp;🎉🎉 Our paper has been accepted by 40st IEEE International Conference on Data Engineering (CCF-A). 
 
-# 📝 Preprints & Publications 
+# 📝 Publications 
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% VITA -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/vita.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 (ccf-a)</div><img src='images/vita.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Unifying Perception and Action: A Hybrid-Modality Pipeline with Implicit Visual Chain-of-Thought for Robotic Action Generation
@@ -56,7 +58,7 @@ Unifying Perception and Action: A Hybrid-Modality Pipeline with Implicit Visual 
 
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% TimeArtist -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2026</div><img src='images/timeartist.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/timeartist.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Temporal-Visual Semantic Alignment: A Unified Architecture for Transferring Spatial Priors from Vision Models to Zero-Shot Temporal Tasks
@@ -68,41 +70,9 @@ Temporal-Visual Semantic Alignment: A Unified Architecture for Transferring Spat
 </div>
 </div>
 
-<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Pets -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2025</div><img src='images/pets.PNG' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Energy-Aware Pattern Disentanglement: A Generalizable Pattern Assisted Architecture for Multi-task Time Series Analysis
-
-**Xiangkai Ma**, Xiaobin Hong, Wenzhong Li, Sanglu Lu
-
-[**Paper**](https://arxiv.org/pdf/2504.14209) |
-[**arXiv**](https://arxiv.org/abs/2504.14209) |
-[**Project & Code**](https://github.com/Xiang-Kai/Pets) 
-</div>
-</div>
-
-<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% TimeControl -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review 2025</div><img src='images/timecontrol.PNG' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Domain Fusion Controllable Generalization for Cross-Domain Time Series Forecasting from Multi-Domain Integrated Distribution
-
-**Xiangkai Ma**, Xiaobin Hong, Mingkai Lin, Han Zhang, Wenzhong Li, Sanglu Lu
-
-[**Paper**](https://arxiv.org/pdf/2412.03068) |
-[**arXiv**](https://arxiv.org/abs/2412.03068) |
-[**Project & Code**](https://github.com/TimeControl-2025/TimeControl) 
-</div>
-</div>
-
-[//]: # (# 📝 Publications )
-
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% WQ4TS -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD</div><img src='images/wq4ts.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDD (ccf-b)</div><img src='images/wq4ts.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A Wave is Worth 100 Words: Investigating Cross-Domain Transferability in Time Series
@@ -117,9 +87,39 @@ Journal: [**ACM Transactions on Knowledge Discovery from Data**](https://dl.acm.
 </div>
 </div>
 
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Pets -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/pets.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Energy-Aware Pattern Disentanglement: A Generalizable Pattern Assisted Architecture for Multi-task Time Series Analysis
+
+**Xiangkai Ma**, Xiaobin Hong, Wenzhong Li, Sanglu Lu
+
+[**Paper**](https://arxiv.org/pdf/2504.14209) |
+[**arXiv**](https://arxiv.org/abs/2504.14209) |
+[**Project & Code**](https://github.com/Xiang-Kai/Pets) 
+</div>
+</div>
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% TimeControl -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/timecontrol.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Domain Fusion Controllable Generalization for Cross-Domain Time Series Forecasting from Multi-Domain Integrated Distribution
+
+**Xiangkai Ma**, Xiaobin Hong, Mingkai Lin, Han Zhang, Wenzhong Li, Sanglu Lu
+
+[**Paper**](https://arxiv.org/pdf/2412.03068) |
+[**arXiv**](https://arxiv.org/abs/2412.03068) |
+[**Project & Code**](https://github.com/TimeControl-2025/TimeControl) 
+</div>
+</div>
+
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% TS3Net -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/ts3net.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024 (ccf-a)</div><img src='images/ts3net.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 TS3Net: Triple Decomposition with Spectrum Gradient for Long-Term Time Series Analysis
