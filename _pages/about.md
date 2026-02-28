@@ -56,6 +56,20 @@ Unifying Perception and Action: A Hybrid-Modality Pipeline with Implicit Visual 
 </div>
 </div>
 
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Demus -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2026 (ccf-a)</div><img src='images/demus.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+DeMus: Large Multimodal Model Serving at the Edge with Diffusion-Based Scheduling
+
+Han Zhang, **Xiangkai Ma**, Tiantian Wang, Mingkai Lin, Wenzhong Li
+
+[//]: # ([**Paper**]&#40;https://arxiv.org/pdf/2511.19856&#41; |)
+[//]: # ([**arXiv**]&#40;https://arxiv.org/abs/2511.19856&#41; )
+</div>
+</div>
+
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% TimeArtist -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/timeartist.PNG' alt="sym" width="100%"></div></div>
@@ -99,20 +113,6 @@ Energy-Aware Pattern Disentanglement: A Generalizable Pattern Assisted Architect
 [**Paper**](https://arxiv.org/pdf/2504.14209) |
 [**arXiv**](https://arxiv.org/abs/2504.14209) |
 [**Project & Code**](https://github.com/Xiang-Kai/Pets) 
-</div>
-</div>
-
-<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Demus -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2026 (ccf-a)</div><img src='images/demus.pdf' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-DeMus: Large Multimodal Model Serving at the Edge with Diffusion-Based Scheduling
-
-Han Zhang, **Xiangkai Ma**, Tiantian Wang, Mingkai Lin, Wenzhong Li
-
-[//]: # ([**Paper**]&#40;https://arxiv.org/pdf/2511.19856&#41; |)
-[//]: # ([**arXiv**]&#40;https://arxiv.org/abs/2511.19856&#41; )
 </div>
 </div>
 
