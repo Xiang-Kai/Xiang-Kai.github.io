@@ -32,11 +32,12 @@ Recently, I have been deeply captivated by the vast application potential of emb
 Now, I am seeking internship opportunities in the field of Embodied AI. Should my research background align with your interests, please do not hesitate to contact me via **xiangkai.ma@smail.nju.edu.cn**.
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 Our paper has been accepted by IEEE Conference on Computer Vision and Pattern Recognition (CCF-A). 
-- *2026.01*: &nbsp;🎉🎉 Our paper has been accepted by ACM Transactions on Knowledge Discovery from Data (CCF-B). 
-- *2025.10*: &nbsp;🎉🎉 Our paper receives Minor Revision from IEEE Transactions on Knowledge and Data Engineering (CCF-A). 
-- *2024.08*: &nbsp;🎉🎉 Our paper has been accepted by ACM Transactions on Knowledge Discovery from Data (CCF-B), congratulations to Xiaobin Hong!
-- *2024.02*: &nbsp;🎉🎉 Our paper has been accepted by 40st IEEE International Conference on Data Engineering (CCF-A). 
+- *2026.02*: &nbsp;🎉🎉 Our paper has been accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR26). 
+- *2026.01*: &nbsp;🎉🎉 Our paper has been accepted by ACM Transactions on Knowledge Discovery from Data (TKDD). 
+- *2025.12*: &nbsp;🎉🎉 Our paper has been accepted by IEEE International Conference on Computer Communications (INFOCOM26). 
+- *2025.10*: &nbsp;🎉🎉 Our paper receives Minor Revision from IEEE Transactions on Knowledge and Data Engineering (TKDE). 
+- *2024.08*: &nbsp;🎉🎉 Our paper has been accepted by ACM Transactions on Knowledge Discovery from Data (TKDD).
+- *2024.02*: &nbsp;🎉🎉 Our paper has been accepted by 40st IEEE International Conference on Data Engineering (ICDE24). 
 
 # 📝 Publications 
 
