@@ -97,6 +97,10 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
+.page__content h1[id] {
+    scroll-margin-top: 2rem;
+}
+
 .badge {
     padding-left: 1rem;
     padding-right: 1rem;
@@ -106,4 +110,193 @@ h1:before, .anchor:before {
     color: white;
     background-color: #00369f;
     font-size: .8em;
+}
+
+.paper-figure {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+    padding-top: 2rem;
+
+    .badge {
+        top: 0;
+        left: 0;
+        margin: 0;
+        z-index: 1;
+    }
+
+    a {
+        display: block;
+    }
+
+    img {
+        display: block;
+        width: 100%;
+        height: auto;
+        background: #fff;
+    }
+}
+
+.experience-timeline {
+    --timeline-color: #00369f;
+    --timeline-rule: #dce4ef;
+    list-style: none;
+    margin: 1.5rem 0 0;
+    padding: 0;
+}
+
+.experience-item {
+    position: relative;
+    display: grid;
+    grid-template-columns: 165px minmax(0, 1fr);
+    column-gap: 34px;
+    margin: 0;
+    padding: 0 0 2rem;
+
+    // Each segment meets the next item; the final point has no trailing stem.
+    &::before {
+        content: "";
+        position: absolute;
+        top: 10px;
+        bottom: -10px;
+        left: 180px;
+        width: 2px;
+        background: var(--timeline-rule);
+    }
+
+    &::after {
+        content: "";
+        position: absolute;
+        top: 7px;
+        left: 176px;
+        width: 10px;
+        height: 10px;
+        border: 2px solid #fff;
+        border-radius: 50%;
+        background: var(--timeline-color);
+        box-shadow: 0 0 0 1px var(--timeline-rule);
+    }
+
+    &:last-child::before {
+        display: none;
+    }
+}
+
+.experience-timeline--internship .experience-item::before {
+    display: block;
+    bottom: 2rem;
+}
+
+.experience-date {
+    padding-top: 2px;
+    color: #687586;
+    font-size: .78rem;
+    font-weight: 600;
+    line-height: 1.7;
+}
+
+.experience-heading {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1rem;
+
+    > div:first-child {
+        min-width: 0;
+    }
+
+    h2 {
+        margin: 0 0 .3rem;
+        padding: 0;
+        border: 0;
+        font-size: 1rem;
+        line-height: 1.5;
+    }
+}
+
+.experience-content {
+    min-width: 0;
+
+    p {
+        margin: 0 0 .35rem;
+        font-size: .85rem;
+        line-height: 1.65;
+    }
+
+    .experience-department {
+        color: #687586;
+    }
+
+    .experience-degree {
+        margin-top: .45rem;
+    }
+
+    .experience-note {
+        color: #687586;
+        font-size: .8rem;
+    }
+
+    .experience-description {
+        margin-top: .65rem;
+    }
+}
+
+.experience-logos {
+    display: flex;
+    flex-shrink: 0;
+    align-items: center;
+    gap: .4rem;
+    padding-top: .2rem;
+
+    img {
+        width: 48px;
+        height: 48px;
+        margin: 0;
+        object-fit: contain;
+    }
+
+    .institution-wordmark {
+        width: 110px;
+        height: 35px;
+    }
+
+    .institution-wordmark--jd {
+        width: 98px;
+        height: 24px;
+    }
+
+    .institution-logo--dark {
+        padding: 4px;
+        border-radius: 4px;
+        background: #123d70;
+    }
+}
+
+@media (max-width: 600px) {
+    .experience-item {
+        grid-template-columns: minmax(0, 1fr);
+        gap: .45rem;
+        padding-left: 24px;
+
+        &::before { left: 4px; }
+        &::after { left: 0; }
+    }
+
+    .experience-heading {
+        gap: .6rem;
+    }
+
+    .experience-logos {
+        flex-direction: column;
+
+        img {
+            width: 38px;
+            height: 38px;
+        }
+
+        .institution-wordmark {
+            width: 72px;
+            height: 26px;
+        }
+    }
 }
