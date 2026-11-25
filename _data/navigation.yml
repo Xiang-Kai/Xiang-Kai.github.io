@@ -3,6 +3,12 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Education"
+    url: "/#education"
+
+  - title: "Internship"
+    url: "/#internship"
+
   - title: "News"
     url: "/#-news"
 
@@ -12,11 +18,5 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Education"
-    url: "/#education"
-
   - title: "Services"
     url: "/#-services"
-
-  - title: "Internship"
-    url: "/#internship"
