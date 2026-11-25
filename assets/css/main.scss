@@ -215,6 +215,11 @@ h1:before, .anchor:before {
     }
 }
 
+.experience-heading--school {
+    flex-wrap: wrap;
+    gap: .65rem 1rem;
+}
+
 .experience-content {
     min-width: 0;
 
@@ -265,11 +270,14 @@ h1:before, .anchor:before {
         height: 39px;
     }
 
-    .institution-logo--dark {
-        padding: 4px;
-        border-radius: 4px;
-        background: #123d70;
+    .institution-logo--yingcai {
+        width: 105px;
+        height: 70px;
     }
+}
+
+.experience-heading--school .experience-logos {
+    max-width: 100%;
 }
 
 @media (max-width: 600px) {
@@ -298,5 +306,14 @@ h1:before, .anchor:before {
             width: 90px;
             height: 30px;
         }
+
+        .institution-logo--yingcai {
+            width: 72px;
+            height: 48px;
+        }
+    }
+
+    .experience-heading--school {
+        gap: .4rem;
     }
 }
