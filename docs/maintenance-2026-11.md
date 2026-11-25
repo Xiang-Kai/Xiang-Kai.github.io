@@ -47,6 +47,7 @@ inkscape images/pilot-framework.svg --export-area-page \
 ## Institutional Marks
 
 - NJU: https://www.nju.edu.cn/en/images/logoft.svg
+- NJU Computer Science: https://cs.nju.edu.cn/_upload/site/00/42/66/logo.png
 - UESTC: https://en.uestc.edu.cn/images/logo.png
 - Yingcai: https://www.yingcai.uestc.edu.cn/images/icon/logo.png
 - JD: https://shengxu.net/images/jd-logo.png
@@ -55,6 +56,10 @@ inkscape images/pilot-framework.svg --export-area-page \
 an NJU-purple background. `images/institutions/uestc.svg` crops the UESTC wordmark to its
 emblem and places the original white artwork on a blue background.
 The Yingcai mark uses the same blue background in CSS for legibility.
+`images/institutions/nju-cs.svg` embeds the official school header artwork
+and crops its right-hand school emblem with an SVG viewBox. Both NJU
+department names link to https://cs.nju.edu.cn/ because they identify the
+same unit in different periods.
 These marks identify the institutions; they do not imply endorsement.
 
 ## Biography Notes
@@ -64,7 +69,15 @@ These marks identify the institutions; they do not imply endorsement.
   integrated master's-to-Ph.D. program; it does not claim a master's degree.
 - The undergraduate honors wording preserves the existing biography.
 - The JD entry says Research Intern, not Talent Program.
-- No internship start date was supplied, so it is displayed as "Present".
+- The JD internship runs from April 2026 to the present.
+- Education and Internship appear directly after the biography, before News.
+- Institution marks sit next to the institution names rather than at the
+  far edge of the page, with larger desktop and mobile sizes.
+- RoboDemo's equal-contribution note and author asterisks are removed at
+  the author's request; the uploaded original PDF remains unchanged.
+- November 2026 news announces the PILOT and RoboDemo preprints, complete
+  project code, and trained model weights. TimesBook acceptance uses only
+  the year 2026 because an acceptance month was not supplied.
 
 ## Preview
 
