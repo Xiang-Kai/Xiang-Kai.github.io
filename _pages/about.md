@@ -28,8 +28,8 @@ Over the past period of time (2022-2024), I focus on problems in time series ana
 My current research focuses on embodied intelligence, including Vision-Language-Action (VLA) models, World Action Models (WAMs), and long-horizon embodied agents:
 
 - *Unifying visual perception and action control through an implicit visual chain-of-thought, as **VITA** [2025].*
-- *Bridging world-action modeling and latent motion semantics through Motion Chain-of-Thought, as **PILOT**.*
-- *Learning from demonstration context while tracking execution progress for long-horizon manipulation, as **RoboDemo**.*
+- *Bridging world-action modeling and latent motion semantics through Motion Chain-of-Thought, as **PILOT [2026]**.*
+- *Learning from demonstration context while tracking execution progress for long-horizon manipulation, as **RoboDemo [2026]**.*
 
 I am currently a Research Intern at <a href="https://research.joyai.com/">Joy Future Academy, JD</a>, Shenzhen. For research discussions and collaboration, please feel free to contact me at **xiangkai.ma@smail.nju.edu.cn**.
 
