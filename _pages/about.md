@@ -110,9 +110,9 @@ I am currently a Research Intern at <a href="https://research.joyai.com/">Joy Fu
 </ol>
 
 # 🔥 News
-- *2026.11*: **RoboDemo** [preprint](files/robodemo.pdf) is now available, with the complete [project code](https://github.com/robodemo-2027/RoboDemo) and [trained model weights](https://huggingface.co/collections/mxk1998/robodemo-6afc7693656d0965ce5466bc) openly released. Explore the [project website](https://robodemo-2027.github.io/).
-- *2026.11*: **PILOT** [preprint](files/pilot.pdf) is now available, with the complete [project code](https://github.com/pilot-wam-2026/pilot-code) and [trained model weights](https://huggingface.co/mxk1998/WM4A) openly released. Explore the [project website](https://pilot-wam-2026.github.io/).
-- *2026*: Our paper **TimesBook** has been accepted by **ACM Multimedia 2026 (MM 2026)**. [Paper](files/timesbook-mm2026.pdf)
+- *2026.11*: Our paper RoboDemo is now available, with the code and weights openly released ([project website](https://robodemo-2027.github.io/)).
+- *2026.7*: Our paper PILOT is now available, with the code and weights openly released ([project website](https://pilot-wam-2026.github.io/)).
+- *2026.7*: Our paper has been accepted by ACM Multimedia 2026 (MM 2026).
 - *2026.02*: &nbsp;🎉🎉 Our paper has been accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR26). 
 - *2026.01*: &nbsp;🎉🎉 Our paper has been accepted by ACM Transactions on Knowledge Discovery from Data (TKDD). 
 - *2025.12*: &nbsp;🎉🎉 Our paper has been accepted by IEEE International Conference on Computer Communications (INFOCOM26). 
