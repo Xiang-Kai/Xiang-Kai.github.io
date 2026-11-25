@@ -33,11 +33,89 @@ My current research focuses on embodied intelligence, including Vision-Language-
 
 I am currently a Research Intern at <a href="https://research.joyai.com/">Joy Future Academy, JD</a>, Shenzhen. For research discussions and collaboration, please feel free to contact me at **xiangkai.ma@smail.nju.edu.cn**.
 
+<span class="anchor" id="-educations"></span>
+
+# Education
+
+<ol class="experience-timeline" aria-label="Education timeline">
+  <li class="experience-item">
+    <div class="experience-date"><time datetime="2024-09">Sep. 2024</time> &ndash; Present</div>
+    <div class="experience-content">
+      <div class="experience-heading">
+        <div>
+          <h2><a href="https://www.nju.edu.cn/en/">Nanjing University</a></h2>
+          <p class="experience-department"><a href="https://cs.nju.edu.cn/">School of Computer Science</a></p>
+        </div>
+        <div class="experience-logos">
+          <img src="images/institutions/nju.svg" alt="Nanjing University emblem" loading="lazy">
+          <img src="images/institutions/nju-cs.svg" alt="Nanjing University School of Computer Science emblem" loading="lazy">
+        </div>
+      </div>
+      <p class="experience-degree">Ph.D. in Computer Science</p>
+    </div>
+  </li>
+  <li class="experience-item">
+    <div class="experience-date"><time datetime="2022-09">Sep. 2022</time> &ndash; <time datetime="2024-06">Jun. 2024</time></div>
+    <div class="experience-content">
+      <div class="experience-heading">
+        <div>
+          <h2><a href="https://www.nju.edu.cn/en/">Nanjing University</a></h2>
+          <p class="experience-department"><a href="https://cs.nju.edu.cn/">Department of Computer Science and Technology</a></p>
+        </div>
+        <div class="experience-logos">
+          <img src="images/institutions/nju.svg" alt="Nanjing University emblem" loading="lazy">
+          <img src="images/institutions/nju-cs.svg" alt="Nanjing University School of Computer Science emblem" loading="lazy">
+        </div>
+      </div>
+      <p class="experience-degree">Graduate Studies in Computer Science and Technology</p>
+      <p class="experience-note">Selected for the integrated master's-to-Ph.D. program.</p>
+    </div>
+  </li>
+  <li class="experience-item">
+    <div class="experience-date"><time datetime="2018-09">Sep. 2018</time> &ndash; <time datetime="2022-06">Jun. 2022</time></div>
+    <div class="experience-content">
+      <div class="experience-heading">
+        <div>
+          <h2><a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China</a></h2>
+          <p class="experience-department"><a href="https://www.yingcai.uestc.edu.cn/">Yingcai Honors College</a></p>
+        </div>
+        <div class="experience-logos experience-logos--uestc">
+          <img src="images/institutions/uestc.svg" alt="University of Electronic Science and Technology of China emblem" loading="lazy">
+          <img src="images/institutions/yingcai.png" alt="Yingcai Honors College logo" class="institution-logo--dark" loading="lazy">
+        </div>
+      </div>
+      <p class="experience-degree">B.S. in Mathematics-Physics Fundamental Science <strong>(with the highest honors)</strong></p>
+    </div>
+  </li>
+</ol>
+
+<span class="anchor" id="-internships"></span>
+
+# Internship
+
+<ol class="experience-timeline experience-timeline--internship" aria-label="Internship timeline">
+  <li class="experience-item">
+    <div class="experience-date"><time datetime="2026-04">Apr. 2026</time> &ndash; Present</div>
+    <div class="experience-content">
+      <div class="experience-heading">
+        <div>
+          <h2>Research Intern</h2>
+          <p class="experience-department"><a href="https://research.joyai.com/">Joy Future Academy, JD</a>, Shenzhen</p>
+        </div>
+        <div class="experience-logos"><img src="images/institutions/jd.png" alt="JD logo" class="institution-wordmark institution-wordmark--jd" loading="lazy"></div>
+      </div>
+      <p class="experience-description">Conducting research on embodied foundation models and agents, with a focus on integrating World Action Models (WAMs) and Latent Action Models (LAMs) through motion-semantic reasoning (<a href="https://pilot-wam-2026.github.io/">PILOT</a>), and developing in-context learning and persistent demonstration-intent and execution-progress memories for long-horizon embodied models and agents (<a href="https://robodemo-2027.github.io/">RoboDemo</a>).</p>
+    </div>
+  </li>
+</ol>
+
 # 🔥 News
+- *2026.11*: **RoboDemo** [preprint](files/robodemo.pdf) is now available, with the complete [project code](https://github.com/robodemo-2027/RoboDemo) and [trained model weights](https://huggingface.co/collections/mxk1998/robodemo-6afc7693656d0965ce5466bc) openly released. Explore the [project website](https://robodemo-2027.github.io/).
+- *2026.11*: **PILOT** [preprint](files/pilot.pdf) is now available, with the complete [project code](https://github.com/pilot-wam-2026/pilot-code) and [trained model weights](https://huggingface.co/mxk1998/WM4A) openly released. Explore the [project website](https://pilot-wam-2026.github.io/).
+- *2026*: Our paper **TimesBook** has been accepted by **ACM Multimedia 2026 (MM 2026)**. [Paper](files/timesbook-mm2026.pdf)
 - *2026.02*: &nbsp;🎉🎉 Our paper has been accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR26). 
 - *2026.01*: &nbsp;🎉🎉 Our paper has been accepted by ACM Transactions on Knowledge Discovery from Data (TKDD). 
 - *2025.12*: &nbsp;🎉🎉 Our paper has been accepted by IEEE International Conference on Computer Communications (INFOCOM26). 
-- *2025.10*: &nbsp;🎉🎉 Our paper receives Minor Revision from IEEE Transactions on Knowledge and Data Engineering (TKDE). 
 - *2024.08*: &nbsp;🎉🎉 Our paper has been accepted by ACM Transactions on Knowledge Discovery from Data (TKDD).
 - *2024.02*: &nbsp;🎉🎉 Our paper has been accepted by 40st IEEE International Conference on Data Engineering (ICDE24). 
 
@@ -50,9 +128,7 @@ I am currently a Research Intern at <a href="https://research.joyai.com/">Joy Fu
 
 RoboDemo: Reconciling Demonstration Intent and Execution Progress for Long-Horizon Manipulation
 
-**Xiangkai Ma**\*, Zhihao Yuan\*, Linbo Zhai, Xinyi Wang, Junjie Wang, Sheng Xu, Guiliang Liu, Han Zhang, Chuyi Chen, Jifeng Gao, Wenzhong Li
-
-<small>\* Equal contribution.</small>
+**Xiangkai Ma**, Zhihao Yuan, Linbo Zhai, Xinyi Wang, Junjie Wang, Sheng Xu, Guiliang Liu, Han Zhang, Chuyi Chen, Jifeng Gao, Wenzhong Li
 
 [**Paper**](files/robodemo.pdf) |
 [**Demo & Website**](https://robodemo-2027.github.io/) |
@@ -214,73 +290,3 @@ Conference: [**2024 IEEE 40th International Conference on Data Engineering**](ht
 - *Spring 2025*: Jiangsu Province Graduate Summer School (Interdisciplinary Big Data Mining Theory and Applications), NJU, Teaching Assistant
 - *Spring 2024*: Jiangsu Province Graduate Summer School (Interdisciplinary Big Data Mining Theory and Applications), NJU, Teaching Assistant
 - *Conference Reviewer*: AAAI 2026, ICLR 2026.
-
-<span class="anchor" id="-educations"></span>
-
-# Education
-
-<ol class="experience-timeline" aria-label="Education timeline">
-  <li class="experience-item">
-    <div class="experience-date"><time datetime="2024-09">Sep. 2024</time> &ndash; Present</div>
-    <div class="experience-content">
-      <div class="experience-heading">
-        <div>
-          <h2><a href="https://www.nju.edu.cn/en/">Nanjing University</a></h2>
-          <p class="experience-department">School of Computer Science</p>
-        </div>
-        <div class="experience-logos"><img src="images/institutions/nju.svg" alt="Nanjing University emblem" loading="lazy"></div>
-      </div>
-      <p class="experience-degree">Ph.D. in Computer Science</p>
-    </div>
-  </li>
-  <li class="experience-item">
-    <div class="experience-date"><time datetime="2022-09">Sep. 2022</time> &ndash; <time datetime="2024-06">Jun. 2024</time></div>
-    <div class="experience-content">
-      <div class="experience-heading">
-        <div>
-          <h2><a href="https://www.nju.edu.cn/en/">Nanjing University</a></h2>
-          <p class="experience-department">Department of Computer Science and Technology</p>
-        </div>
-        <div class="experience-logos"><img src="images/institutions/nju.svg" alt="Nanjing University emblem" loading="lazy"></div>
-      </div>
-      <p class="experience-degree">Graduate Studies in Computer Science and Technology</p>
-      <p class="experience-note">Selected for the integrated master's-to-Ph.D. program.</p>
-    </div>
-  </li>
-  <li class="experience-item">
-    <div class="experience-date"><time datetime="2018-09">Sep. 2018</time> &ndash; <time datetime="2022-06">Jun. 2022</time></div>
-    <div class="experience-content">
-      <div class="experience-heading">
-        <div>
-          <h2><a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China</a></h2>
-          <p class="experience-department"><a href="https://www.yingcai.uestc.edu.cn/">Yingcai Honors College</a></p>
-        </div>
-        <div class="experience-logos experience-logos--uestc">
-          <img src="images/institutions/uestc.svg" alt="University of Electronic Science and Technology of China emblem" loading="lazy">
-          <img src="images/institutions/yingcai.png" alt="Yingcai Honors College logo" class="institution-logo--dark" loading="lazy">
-        </div>
-      </div>
-      <p class="experience-degree">B.S. in Mathematics-Physics Fundamental Science <strong>(with the highest honors)</strong></p>
-    </div>
-  </li>
-</ol>
-
-<span class="anchor" id="-internships"></span>
-
-# Internship
-
-<ol class="experience-timeline experience-timeline--internship" aria-label="Internship timeline">
-  <li class="experience-item">
-    <div class="experience-date">Present</div>
-    <div class="experience-content">
-      <div class="experience-heading">
-        <div>
-          <h2>Research Intern</h2>
-          <p class="experience-department"><a href="https://research.joyai.com/">Joy Future Academy, JD</a>, Shenzhen</p>
-        </div>
-        <div class="experience-logos"><img src="images/institutions/jd.png" alt="JD logo" class="institution-wordmark institution-wordmark--jd" loading="lazy"></div>
-      </div>
-      <p class="experience-description">Conducting research on embodied foundation models and agents, with a focus on integrating World Action Models (WAMs) and Latent Action Models (LAMs) through motion-semantic reasoning (<a href="https://pilot-wam-2026.github.io/">PILOT</a>), and developing in-context learning and persistent demonstration-intent and execution-progress memories for long-horizon embodied models and agents (<a href="https://robodemo-2027.github.io/">RoboDemo</a>).</p>
-    </div>
-  </li>
-</ol>
