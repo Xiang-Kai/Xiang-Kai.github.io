@@ -141,17 +141,17 @@ h1:before, .anchor:before {
     --timeline-color: #00369f;
     --timeline-rule: #dce4ef;
     list-style: none;
-    margin: 1.5rem 0 0;
+    margin: .8rem 0 0;
     padding: 0;
 }
 
 .experience-item {
     position: relative;
     display: grid;
-    grid-template-columns: 165px minmax(0, 1fr);
-    column-gap: 34px;
+    grid-template-columns: 155px minmax(0, 1fr);
+    column-gap: 28px;
     margin: 0;
-    padding: 0 0 2rem;
+    padding: 0 0 1.1rem;
 
     // Each segment meets the next item; the final point has no trailing stem.
     &::before {
@@ -159,7 +159,7 @@ h1:before, .anchor:before {
         position: absolute;
         top: 10px;
         bottom: -10px;
-        left: 180px;
+        left: 168px;
         width: 2px;
         background: var(--timeline-rule);
     }
@@ -168,7 +168,7 @@ h1:before, .anchor:before {
         content: "";
         position: absolute;
         top: 7px;
-        left: 176px;
+        left: 164px;
         width: 10px;
         height: 10px;
         border: 2px solid #fff;
@@ -184,7 +184,7 @@ h1:before, .anchor:before {
 
 .experience-timeline--internship .experience-item::before {
     display: block;
-    bottom: 2rem;
+    bottom: 1.1rem;
 }
 
 .experience-date {
@@ -197,16 +197,17 @@ h1:before, .anchor:before {
 
 .experience-heading {
     display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
-    gap: 1rem;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 1.1rem;
 
     > div:first-child {
         min-width: 0;
+        max-width: 27rem;
     }
 
     h2 {
-        margin: 0 0 .3rem;
+        margin: 0 0 .15rem;
         padding: 0;
         border: 0;
         font-size: 1rem;
@@ -228,7 +229,7 @@ h1:before, .anchor:before {
     }
 
     .experience-degree {
-        margin-top: .45rem;
+        margin-top: .2rem;
     }
 
     .experience-note {
@@ -237,7 +238,7 @@ h1:before, .anchor:before {
     }
 
     .experience-description {
-        margin-top: .65rem;
+        margin-top: .4rem;
     }
 }
 
@@ -245,24 +246,23 @@ h1:before, .anchor:before {
     display: flex;
     flex-shrink: 0;
     align-items: center;
-    gap: .4rem;
-    padding-top: .2rem;
+    gap: .5rem;
 
     img {
-        width: 48px;
-        height: 48px;
+        width: 70px;
+        height: 70px;
         margin: 0;
         object-fit: contain;
     }
 
     .institution-wordmark {
-        width: 110px;
-        height: 35px;
+        width: 155px;
+        height: 44px;
     }
 
     .institution-wordmark--jd {
-        width: 98px;
-        height: 24px;
+        width: 155px;
+        height: 39px;
     }
 
     .institution-logo--dark {
@@ -283,20 +283,20 @@ h1:before, .anchor:before {
     }
 
     .experience-heading {
-        gap: .6rem;
+        gap: .75rem;
     }
 
     .experience-logos {
-        flex-direction: column;
+        gap: .4rem;
 
         img {
-            width: 38px;
-            height: 38px;
+            width: 48px;
+            height: 48px;
         }
 
         .institution-wordmark {
-            width: 72px;
-            height: 26px;
+            width: 90px;
+            height: 30px;
         }
     }
 }
