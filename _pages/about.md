@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Xiangkai Ma (马向恺). I'm currently a Ph.D. student at <a href="https://www.nju.edu.cn/en/">Nanjing University of China</a> from 2024 Spring, a member of <a href="https://keysoftlab.nju.edu.cn/main.psp">State Key Laboratory for Novel Software Technology@NJU</a>, supervised by Professor <a href="https://cs.nju.edu.cn/lwz/index.htm">Wenzhong Li (李文中)</a> and <a href="https://cs.nju.edu.cn/58/1e/c2639a153630/page.htm">Sanglu Lu (陆桑璐)</a>. I received B.S. degree (Highest Honor) in Mathematics-Physics Fundamental Science from <a href="https://www.yingcai.uestc.edu.cn/xygk/xyjj.htm">Yingcai Honors College</a> at <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China</a> in 2022.
+Hi! I am Xiangkai Ma (马向恺). I'm currently a Ph.D. student at <a href="https://www.nju.edu.cn/en/">Nanjing University of China</a> since September 2024, a member of <a href="https://keysoftlab.nju.edu.cn/main.psp">State Key Laboratory for Novel Software Technology@NJU</a>, supervised by Professor <a href="https://cs.nju.edu.cn/lwz/index.htm">Wenzhong Li (李文中)</a> and <a href="https://cs.nju.edu.cn/58/1e/c2639a153630/page.htm">Sanglu Lu (陆桑璐)</a>. I received B.S. degree (Highest Honor) in Mathematics-Physics Fundamental Science from <a href="https://www.yingcai.uestc.edu.cn/xygk/xyjj.htm">Yingcai Honors College</a> at <a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China</a> in 2022.
 
 Over the past period of time (2022-2024), I focus on problems in time series analysis, where beautiful theory and practical methodology meet. My research focus in the field of time series analysis can be categorized into the following three directions:
 
@@ -25,11 +25,13 @@ Over the past period of time (2022-2024), I focus on problems in time series ana
 - *Fusion across multiple time series domains and cross-domain generalization, as **WQ4TS** [2024] and **TimeControl** [2024];*
 - *Zero-shot time series forecasting and classification leveraging pre-trained vision models, as **TimeArtist** [2025].*
 
-Recently, I have been deeply captivated by the vast application potential of embodied robots in real-world scenarios and hope to pursue research related to Vision-Language-Action (VLA) during my upcoming doctoral studies (2025-2028). My initial foray into the embodied intelligence is:
+My current research focuses on embodied intelligence, including Vision-Language-Action (VLA) models, World Action Models (WAMs), and long-horizon embodied agents:
 
 - *Unifying visual perception and action control through an implicit visual chain-of-thought, as **VITA** [2025].*
+- *Bridging world-action modeling and latent motion semantics through Motion Chain-of-Thought, as **PILOT**.*
+- *Learning from demonstration context while tracking execution progress for long-horizon manipulation, as **RoboDemo**.*
 
-Now, I am seeking internship opportunities in the field of Embodied AI. Should my research background align with your interests, please do not hesitate to contact me via **xiangkai.ma@smail.nju.edu.cn**.
+I am currently a Research Intern at <a href="https://research.joyai.com/">Joy Future Academy, JD</a>, Shenzhen. For research discussions and collaboration, please feel free to contact me at **xiangkai.ma@smail.nju.edu.cn**.
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 Our paper has been accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR26). 
@@ -41,6 +43,42 @@ Now, I am seeking internship opportunities in the field of Embodied AI. Should m
 
 # 📝 Publications 
 
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% RoboDemo -->
+
+<div class='paper-box'><div class='paper-box-image'><div class="paper-figure"><div class="badge">Under Review</div><a href="images/robodemo-framework.svg" aria-label="View RoboDemo Figure 2 at full size"><img src="images/robodemo-framework.png" alt="RoboDemo Figure 2: demonstration-intent and interaction-progress memories with Dual-Cascaded Test-Time Training." width="1600" height="987" loading="lazy"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+RoboDemo: Reconciling Demonstration Intent and Execution Progress for Long-Horizon Manipulation
+
+**Xiangkai Ma**\*, Zhihao Yuan\*, Linbo Zhai, Xinyi Wang, Junjie Wang, Sheng Xu, Guiliang Liu, Han Zhang, Chuyi Chen, Jifeng Gao, Wenzhong Li
+
+<small>\* Equal contribution.</small>
+
+[**Paper**](files/robodemo.pdf) |
+[**Demo & Website**](https://robodemo-2027.github.io/) |
+[**Project & Code**](https://github.com/robodemo-2027/RoboDemo) |
+[**Model Weights**](https://huggingface.co/collections/mxk1998/robodemo-6afc7693656d0965ce5466bc) |
+[**Release & Guides**](https://robodemo-2027.github.io/#resources)
+</div>
+</div>
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% PILOT -->
+
+<div class='paper-box'><div class='paper-box-image'><div class="paper-figure"><div class="badge">Under Review</div><a href="images/pilot-framework.svg" aria-label="View PILOT Figure 3 at full size"><img src="images/pilot-framework.png" alt="PILOT Figure 3: world-model and action-perceiver branches with Representational Deduction and a Causal Dynamics Engine." width="1600" height="884" loading="lazy"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+Motion Chain of Thought: Disentangling Motion Semantics from Visual Appearance for Robotic Manipulation
+
+**Xiangkai Ma**, Xinyi Wang, Junjie Wang, Sheng Xu, Mingyang Li, Yue Ma, Han Zhang, Yuzheng Zhuang, Wenzhong Li, Zhihao Yuan
+
+[**Paper**](files/pilot.pdf) |
+[**Demo & Website**](https://pilot-wam-2026.github.io/) |
+[**Project & Code**](https://github.com/pilot-wam-2026/pilot-code) |
+[**Model Weights**](https://huggingface.co/mxk1998/WM4A) |
+[**Release & Guides**](https://pilot-wam-2026.github.io/#resources)
+</div>
+</div>
+
 <!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% VITA -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026 (ccf-a)</div><img src='images/vita.PNG' alt="sym" width="100%"></div></div>
@@ -50,10 +88,27 @@ Unifying Perception and Action: A Hybrid-Modality Pipeline with Implicit Visual 
 
 **Xiangkai Ma**, Lekai Xing, Han Zhang, Wenzhong Li, Sanglu Lu
 
+Conference: [**2026 IEEE/CVF Computer Vision and Pattern Recognition Conference**](https://openaccess.thecvf.com/content/CVPR2026/papers/Ma_Unifying_Perception_and_Action_A_Hybrid-Modality_Pipeline_with_Implicit_Visual_CVPR_2026_paper.pdf)
+
 [**Paper**](https://arxiv.org/pdf/2511.19859) |
 [**arXiv**](https://arxiv.org/abs/2511.19859) |
-[**Demo & Website**](https://vita-cvpr26.github.io/) |
-[**Project & Code**](https://github.com/vita-cvpr26/vita)
+[**Demo & Website**](https://xiang-kai.github.io/vita-cvpr26.github.io/) |
+[**Project & Code**](https://github.com/Xiang-Kai/VITA)
+</div>
+</div>
+
+<!-- %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% TimesBook -->
+
+<div class='paper-box'><div class='paper-box-image'><div class="paper-figure"><div class="badge">MM 2026 (ccf-a)</div><a href="images/timesbook-framework.svg" aria-label="View TimesBook Figure 2 at full size"><img src="images/timesbook-framework.png" alt="TimesBook Figure 2: cross-modal alignment, masked variate composer, multimodal codebook, and fusion classifier." width="1600" height="886" loading="lazy"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+TimesBook: Cross-Modal Visual Augmentation for Few-Shot Multivariate Time Series Classification
+
+Junjie Wang, **Xiangkai Ma**, Mingkai Lin, Haoming Li, Sanglu Lu, Wenzhong Li
+
+Conference: **2026 ACM Multimedia**
+
+[**Paper**](files/timesbook-mm2026.pdf)
 </div>
 </div>
 
@@ -66,8 +121,9 @@ DeMus: Large Multimodal Model Serving at the Edge with Diffusion-Based Schedulin
 
 Han Zhang, **Xiangkai Ma**, Tiantian Wang, Mingkai Lin, Wenzhong Li
 
-[//]: # ([**Paper**]&#40;https://arxiv.org/pdf/2511.19856&#41; |)
-[//]: # ([**arXiv**]&#40;https://arxiv.org/abs/2511.19856&#41; )
+Conference: [**2026 IEEE Conference on Computer Communications**](https://ieeexplore.ieee.org/document/11571478)
+
+[**Paper**](files/demus-infocom2026.pdf)
 </div>
 </div>
 
@@ -98,7 +154,7 @@ Journal: [**ACM Transactions on Knowledge Discovery from Data**](https://dl.acm.
 
 [**Paper**](https://arxiv.org/pdf/2412.00772) |
 [**arXiv**](https://arxiv.org/abs/2412.00772) |
-[**Project & Code**](https://anonymous.4open.science/r/WQ4TS)
+[**Project & Code**](https://github.com/Xiang-Kai/WQ4TS)
 </div>
 </div>
 
@@ -128,7 +184,7 @@ Domain Fusion Controllable Generalization for Cross-Domain Time Series Forecasti
 
 [**Paper**](https://arxiv.org/pdf/2412.03068) |
 [**arXiv**](https://arxiv.org/abs/2412.03068) |
-[**Project & Code**](https://github.com/TimeControl-2025/TimeControl) 
+[**Project & Code**](https://github.com/Xiang-Kai/TimeControl)
 </div>
 </div>
 
@@ -159,7 +215,72 @@ Conference: [**2024 IEEE 40th International Conference on Data Engineering**](ht
 - *Spring 2024*: Jiangsu Province Graduate Summer School (Interdisciplinary Big Data Mining Theory and Applications), NJU, Teaching Assistant
 - *Conference Reviewer*: AAAI 2026, ICLR 2026.
 
-# 📖 Educations
-- *2024.09 - 2028.06 (Now)*, Nanjing University, School of Computer Science.
-- *2022.09 - 2024.06*, Nanjing University, Department of Computer Science and Technology. 
-- *2018.09 - 2022.06*, University of Electronic Science and Technology of China. YingCai Honors College.
+<span class="anchor" id="-educations"></span>
+
+# Education
+
+<ol class="experience-timeline" aria-label="Education timeline">
+  <li class="experience-item">
+    <div class="experience-date"><time datetime="2024-09">Sep. 2024</time> &ndash; Present</div>
+    <div class="experience-content">
+      <div class="experience-heading">
+        <div>
+          <h2><a href="https://www.nju.edu.cn/en/">Nanjing University</a></h2>
+          <p class="experience-department">School of Computer Science</p>
+        </div>
+        <div class="experience-logos"><img src="images/institutions/nju.svg" alt="Nanjing University emblem" loading="lazy"></div>
+      </div>
+      <p class="experience-degree">Ph.D. in Computer Science</p>
+    </div>
+  </li>
+  <li class="experience-item">
+    <div class="experience-date"><time datetime="2022-09">Sep. 2022</time> &ndash; <time datetime="2024-06">Jun. 2024</time></div>
+    <div class="experience-content">
+      <div class="experience-heading">
+        <div>
+          <h2><a href="https://www.nju.edu.cn/en/">Nanjing University</a></h2>
+          <p class="experience-department">Department of Computer Science and Technology</p>
+        </div>
+        <div class="experience-logos"><img src="images/institutions/nju.svg" alt="Nanjing University emblem" loading="lazy"></div>
+      </div>
+      <p class="experience-degree">Graduate Studies in Computer Science and Technology</p>
+      <p class="experience-note">Selected for the integrated master's-to-Ph.D. program.</p>
+    </div>
+  </li>
+  <li class="experience-item">
+    <div class="experience-date"><time datetime="2018-09">Sep. 2018</time> &ndash; <time datetime="2022-06">Jun. 2022</time></div>
+    <div class="experience-content">
+      <div class="experience-heading">
+        <div>
+          <h2><a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China</a></h2>
+          <p class="experience-department"><a href="https://www.yingcai.uestc.edu.cn/">Yingcai Honors College</a></p>
+        </div>
+        <div class="experience-logos experience-logos--uestc">
+          <img src="images/institutions/uestc.svg" alt="University of Electronic Science and Technology of China emblem" loading="lazy">
+          <img src="images/institutions/yingcai.png" alt="Yingcai Honors College logo" class="institution-logo--dark" loading="lazy">
+        </div>
+      </div>
+      <p class="experience-degree">B.S. in Mathematics-Physics Fundamental Science <strong>(with the highest honors)</strong></p>
+    </div>
+  </li>
+</ol>
+
+<span class="anchor" id="-internships"></span>
+
+# Internship
+
+<ol class="experience-timeline experience-timeline--internship" aria-label="Internship timeline">
+  <li class="experience-item">
+    <div class="experience-date">Present</div>
+    <div class="experience-content">
+      <div class="experience-heading">
+        <div>
+          <h2>Research Intern</h2>
+          <p class="experience-department"><a href="https://research.joyai.com/">Joy Future Academy, JD</a>, Shenzhen</p>
+        </div>
+        <div class="experience-logos"><img src="images/institutions/jd.png" alt="JD logo" class="institution-wordmark institution-wordmark--jd" loading="lazy"></div>
+      </div>
+      <p class="experience-description">Conducting research on embodied foundation models and agents, with a focus on integrating World Action Models (WAMs) and Latent Action Models (LAMs) through motion-semantic reasoning (<a href="https://pilot-wam-2026.github.io/">PILOT</a>), and developing in-context learning and persistent demonstration-intent and execution-progress memories for long-horizon embodied models and agents (<a href="https://robodemo-2027.github.io/">RoboDemo</a>).</p>
+    </div>
+  </li>
+</ol>
