@@ -41,13 +41,13 @@ I am currently a Research Intern at <a href="https://research.joyai.com/">Joy Fu
   <li class="experience-item">
     <div class="experience-date"><time datetime="2024-09">Sep. 2024</time> &ndash; Present</div>
     <div class="experience-content">
-      <div class="experience-heading">
+      <div class="experience-heading experience-heading--school">
         <div>
           <h2><a href="https://www.nju.edu.cn/en/">Nanjing University</a></h2>
           <p class="experience-department"><a href="https://cs.nju.edu.cn/">School of Computer Science</a></p>
         </div>
         <div class="experience-logos">
-          <img src="images/institutions/nju.svg" alt="Nanjing University emblem" loading="lazy">
+          <img src="images/institutions/nju-emblem.png" alt="Nanjing University emblem" width="84" height="113" loading="lazy">
           <img src="images/institutions/nju-cs.svg" alt="Nanjing University School of Computer Science emblem" loading="lazy">
         </div>
       </div>
@@ -57,13 +57,13 @@ I am currently a Research Intern at <a href="https://research.joyai.com/">Joy Fu
   <li class="experience-item">
     <div class="experience-date"><time datetime="2022-09">Sep. 2022</time> &ndash; <time datetime="2024-06">Jun. 2024</time></div>
     <div class="experience-content">
-      <div class="experience-heading">
+      <div class="experience-heading experience-heading--school">
         <div>
           <h2><a href="https://www.nju.edu.cn/en/">Nanjing University</a></h2>
           <p class="experience-department"><a href="https://cs.nju.edu.cn/">Department of Computer Science and Technology</a></p>
         </div>
         <div class="experience-logos">
-          <img src="images/institutions/nju.svg" alt="Nanjing University emblem" loading="lazy">
+          <img src="images/institutions/nju-emblem.png" alt="Nanjing University emblem" width="84" height="113" loading="lazy">
           <img src="images/institutions/nju-cs.svg" alt="Nanjing University School of Computer Science emblem" loading="lazy">
         </div>
       </div>
@@ -74,14 +74,14 @@ I am currently a Research Intern at <a href="https://research.joyai.com/">Joy Fu
   <li class="experience-item">
     <div class="experience-date"><time datetime="2018-09">Sep. 2018</time> &ndash; <time datetime="2022-06">Jun. 2022</time></div>
     <div class="experience-content">
-      <div class="experience-heading">
+      <div class="experience-heading experience-heading--school">
         <div>
           <h2><a href="https://en.uestc.edu.cn/">University of Electronic Science and Technology of China</a></h2>
           <p class="experience-department"><a href="https://www.yingcai.uestc.edu.cn/">Yingcai Honors College</a></p>
         </div>
         <div class="experience-logos experience-logos--uestc">
-          <img src="images/institutions/uestc.svg" alt="University of Electronic Science and Technology of China emblem" loading="lazy">
-          <img src="images/institutions/yingcai.png" alt="Yingcai Honors College logo" class="institution-logo--dark" loading="lazy">
+          <img src="images/institutions/uestc-emblem.png" alt="University of Electronic Science and Technology of China emblem" width="66" height="66" loading="lazy">
+          <img src="images/institutions/yingcai-emblem.png" alt="Yingcai Honors College eagle emblem" class="institution-logo--yingcai" width="293" height="195" loading="lazy">
         </div>
       </div>
       <p class="experience-degree">B.S. in Mathematics-Physics Fundamental Science <strong>(with the highest honors)</strong></p>
@@ -131,6 +131,7 @@ RoboDemo: Reconciling Demonstration Intent and Execution Progress for Long-Horiz
 **Xiangkai Ma**, Zhihao Yuan, Linbo Zhai, Xinyi Wang, Junjie Wang, Sheng Xu, Guiliang Liu, Han Zhang, Chuyi Chen, Jifeng Gao, Wenzhong Li
 
 [**Paper**](files/robodemo.pdf) |
+[**arXiv**](https://arxiv.org/abs/2611.32256) |
 [**Demo & Website**](https://robodemo-2027.github.io/) |
 [**Project & Code**](https://github.com/robodemo-2027/RoboDemo) |
 [**Model Weights**](https://huggingface.co/collections/mxk1998/robodemo-6afc7693656d0965ce5466bc) |
@@ -148,6 +149,7 @@ Motion Chain of Thought: Disentangling Motion Semantics from Visual Appearance f
 **Xiangkai Ma**, Xinyi Wang, Junjie Wang, Sheng Xu, Mingyang Li, Yue Ma, Han Zhang, Yuzheng Zhuang, Wenzhong Li, Zhihao Yuan
 
 [**Paper**](files/pilot.pdf) |
+[**arXiv**](https://arxiv.org/abs/2611.32241) |
 [**Demo & Website**](https://pilot-wam-2026.github.io/) |
 [**Project & Code**](https://github.com/pilot-wam-2026/pilot-code) |
 [**Model Weights**](https://huggingface.co/mxk1998/WM4A) |
